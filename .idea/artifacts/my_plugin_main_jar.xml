@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="my_plugin_main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/my_plugin_main_jar</output-path>
+    <root id="archive" name="my_plugin_main.jar">
+      <element id="module-output" name="my_plugin_main" />
+      <element id="extracted-dir" path="C:/Program Files/Java/jdk1.8.0_73/lib/tools.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
